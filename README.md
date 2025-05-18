@@ -137,5 +137,5 @@ graph TD
 
 ## 📬 联系我们
 - 协会办公室：大学生活动中心二楼
-- 指导老师：罗敬教授 `stajluo@scuec.edu.cn`
+- 指导老师：罗敬教授
 - GitHub维护组：`MathModellers@outlook.com`
